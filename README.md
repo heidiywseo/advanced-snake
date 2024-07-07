@@ -11,3 +11,5 @@ This is an advanced version of the popular game Snake.
 6. You can pause the game and resume later. ⏯️
 7. You may reset the game to start from the beginning. 🔄
 8. Your highest score will be tracked and updated 🏆
+
+![image](Snake.png)
